@@ -1,1 +1,2 @@
-test~£¡
+test
+I already know how to use branch.
